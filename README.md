@@ -11,7 +11,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented--Programming-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
 
 #### **Database & Sistemi**
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
