@@ -20,6 +20,7 @@
 
 #### **Cybersecurity**
 ![Pentesting](https://img.shields.io/badge/Pentesting-WebSecurity-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Web Security](https://img.shields.io/badge/WebSecurity-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📂 Attività Correnti
 - **Migliorare competenze nei framework Laravel e React:** Analisi della macchina "Gain Power".
