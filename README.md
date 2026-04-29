@@ -1,18 +1,31 @@
-# Ciao, sono [Tuo Nome]! 👋
+# Ciao, sono Luigi 👋
 
 ### 👨‍💻 Chi sono
 - 🎯 Attualmente mi sto focalizzando su **Cybersecurity** e **Linux System Administration**.
 - 🛠 Sto imparando l'automazione con **Python** (Paramiko, Subprocess).
 - 🏐 Appassionato di pallavolo e calcio (lo sport è il mio reset mentale).
 
-### 🚀 Le mie Skill
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🚀 Tech Stack & Skills
+
+#### **Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### **Backend & OOP**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented--Programming-blue?style=for-the-badge)
+
+#### **Database & Sistemi**
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 Le mie Statistiche
-![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=[TUO_USERNAME]&show_icons=true&theme=radical)
+#### **Cybersecurity**
+![Pentesting](https://img.shields.io/badge/Pentesting-Critical-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 📂 Progetti Correnti
-- **Vulnhub Lab:** Analisi della macchina "Gain Power".
-- **SSH Automator:** Script Python per la scansione e gestione di utenti via SSH.
+### 📂 Attività Correnti
+- **Migliorare competenze nei framework Laravel e React:** Analisi della macchina "Gain Power".
+- **Pentesting e Web Security:** Sono appassionato di sicurezza informatica quindi mi diletto nella materia.
