@@ -19,7 +19,7 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### **Cybersecurity**
-![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-black?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Web Security](https://img.shields.io/badge/WebSecurity-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📂 Attività Correnti
