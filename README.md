@@ -1,10 +1,5 @@
 # Ciao, sono Luigi 👋
 
-### 👨‍💻 Chi sono
-- 🎯 Attualmente mi sto focalizzando su **Cybersecurity** e **Linux System Administration**.
-- 🛠 Sto imparando l'automazione con **Python** (Paramiko, Subprocess).
-- 🏐 Appassionato di pallavolo e calcio (lo sport è il mio reset mentale).
-
 ### 🚀 Tech Stack & Skills
 
 #### **Frontend**
