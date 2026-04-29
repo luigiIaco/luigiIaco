@@ -23,5 +23,5 @@
 ![Web Security](https://img.shields.io/badge/WebSecurity-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📂 Attività Correnti
-- **Migliorare competenze nei framework Laravel e React:** Analisi della macchina "Gain Power".
+- **Migliorare competenze nei framework Laravel e React:**
 - **Pentesting e Web Security:** Sono appassionato di sicurezza informatica quindi mi diletto nella materia.
